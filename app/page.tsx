@@ -26,7 +26,7 @@ export default function Home() {
         </div>
         <div className="flex-1">
           <Image
-            src="/placeholder.svg?height=400&width=500"
+               src="/assets/psicolaborando.jpg"
             alt="Psicólogos colaborando"
             width={500}
             height={400}
@@ -141,19 +141,19 @@ export default function Home() {
             <TestimonialCard
               name="Ana Silva"
               role="Psicóloga Clínica"
-              image="/placeholder.svg?height=100&width=100"
+              image="/assets/perfil2.png"
               testimonial="A plataforma tem sido fundamental para meu desenvolvimento profissional. As intervisões e o networking me ajudaram a expandir minha prática clínica."
             />
             <TestimonialCard
               name="Carlos Mendes"
               role="Estudante de Psicologia"
-              image="/placeholder.svg?height=100&width=100"
+              image="/assets/perfil3.png"
               testimonial="Como estudante, encontrei um espaço acolhedor para tirar dúvidas e aprender com profissionais experientes. Os recursos disponíveis são excelentes."
             />
             <TestimonialCard
               name="Mariana Costa"
               role="Psicóloga Organizacional"
-              image="/placeholder.svg?height=100&width=100"
+              image="/assets/perfil1.png"
               testimonial="As capacitações e o material disponibilizado me ajudaram a estruturar melhor meu trabalho. Recomendo para todos os profissionais da área."
             />
           </div>
