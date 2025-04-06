@@ -296,6 +296,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](L
 
 ## 📞 Contato
 
-Nome - [seu-email@exemplo.com](E-mail:ctsctiago@gmail.com)
+Nome - [ctsctiago@gmail.com](E-mail:ctsctiago@gmail.com)
 
 Link do Projeto: [https://github.com/CTiagoCosta/psychological-community](https://github.com/seu-usuario/psiconnect)
